@@ -1,6 +1,6 @@
 # Cache Hit and Miss Calculator
 
-In CPSC 313: Computer Hardware and Operating Systems, it is asked to calculate the hits and misses of LFU and LRU caches. This project is to calcluate hits/misses.
+In CPSC 313: Computer Hardware and Operating Systems, it is asked to calculate the hits and misses of LFU, LRU, and FIFO caches. This project is to calcluate hits/misses.
 
 ### Example Question
 
